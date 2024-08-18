@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{077EBFBE-64D7-406B-BA2A-22A030F84386}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/Program.cs" relfile="CountCourse/Program.cs" line="17" column="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CountCourse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountCourse/Entities/Teacher.cs">
+    <Files>
+      <File FileName="CountCourse/Program.cs" Line="33" Column="38" />
+      <File FileName="CountCourse/Entities/Teacher.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CountCourse" expanded="True">
+            <Node name="CountCourse" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

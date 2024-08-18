@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/bin/Debug/net7.0/CountCourse
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/bin/Debug/net7.0/CountCourse.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/bin/Debug/net7.0/CountCourse.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/bin/Debug/net7.0/CountCourse.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/bin/Debug/net7.0/CountCourse.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/CountCourse.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/CountCourse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/CountCourse.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/CountCourse.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/CountCourse.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/CountCourse.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/refint/CountCourse.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/CountCourse.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/CountCourse.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/CountCourse/CountCourse/CountCourse/obj/Debug/net7.0/ref/CountCourse.dll
